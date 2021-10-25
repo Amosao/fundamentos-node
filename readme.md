@@ -1,6 +1,6 @@
 # Node Basic Project - EN/US
 
-This repository contains a simple NodeJS project with Express
+This repository contains a simple [NodeJS](https://nodejs.org/en/) project with [Express](https://expressjs.com/)
 
 ## Content
 
@@ -37,7 +37,7 @@ Lastly, select the request and click 'Send' **with the project running!**
 
 # Projeto Básico em Node - PT/BR
 
-Esse repositório possui um projeto simples em NodeJS feito com Express
+Esse repositório possui um projeto simples em [NodeJS](https://nodejs.org/pt-br/) feito com [Express](https://expressjs.com/)
 
 ## Conteúdo
 
