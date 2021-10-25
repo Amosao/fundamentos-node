@@ -35,7 +35,7 @@ then import the 'requests.json' file, which contains all the requests available;
 
 Lastly, select the request and click 'Send' **with the project running!**
 
-# Porjeto Básico em Node - PT/BR
+# Projeto Básico em Node - PT/BR
 
 Esse repositório possui um projeto simples em NodeJS feito com Express
 
